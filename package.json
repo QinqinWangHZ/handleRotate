@@ -1,0 +1,10 @@
+{
+  "name": "handle-rotate",
+  "version": "0.0.1",
+  "description": "控制loading时间",
+  "author": "wangqinqin",
+  "license": "ISC",
+  "entry": {
+    "assets/index": "./assets/index.js"
+  }
+}
